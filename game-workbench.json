@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "dead-orbit",
+  "title": "Dead Orbit",
+  "engine": "Unity",
+  "family": "Space survival",
+  "projectPath": "Game",
+  "gameType": "3d-game",
+  "description": "Seal hull breaches, manage oxygen and airlocks, restore an uplink, and reach the escape pod. Three-chapter development prototype; controller, multiplayer, platform and Steam release acceptance are tracked separately.",
+  "links": {
+    "repository": "https://github.com/securelyprogramming/unity-dead-orbit",
+    "websiteRepository": null,
+    "website": null,
+    "jira": null
+  },
+  "builder": {
+    "openScript": null,
+    "guide": "unity-dead-orbit/tools/StageBuilder/README.md"
+  },
+  "catalog": "unity-dead-orbit/tools/StageBuilder/stage-catalog.json"
+}

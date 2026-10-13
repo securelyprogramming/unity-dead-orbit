@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "dead-orbit",
+  "title": "Dead Orbit",
+  "mode": "dead-orbit",
+  "genre": "space-survival",
+  "brief": "Seal hull breaches, conserve oxygen and restore an uplink while infected crew hunt through a failing station.",
+  "seed": 138,
+  "difficulty": 1,
+  "repository": "https://github.com/securelyprogramming/unity-dead-orbit",
+  "folder": "unity-dead-orbit",
+  "engine": "Unity",
+  "engineVersion": "6000.6.0f1",
+  "project": "Game",
+  "targetPlatforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "storeTarget": "Steam premium PC",
+  "players": "1–4 LAN cooperative players; local solo campaign",
+  "accent": "#55bdce",
+  "setting": "space",
+  "enemy": "space-zombie",
+  "cast": [
+    {
+      "name": "Nia Sol",
+      "role": "systems engineer"
+    },
+    {
+      "name": "Tomas Venn",
+      "role": "medic"
+    },
+    {
+      "name": "ECHO",
+      "role": "station archivist"
+    }
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Cold Dock",
+      "story": "Nia wakes to a station full of open airlocks and a voice asking her to preserve the crew manifest.",
+      "layoutSeed": 138
+    },
+    {
+      "number": 2,
+      "title": "The Quiet Ring",
+      "story": "The quiet ring still has breathable air, but every repair brings the infected closer.",
+      "layoutSeed": 311
+    },
+    {
+      "number": 3,
+      "title": "Last Transmission",
+      "story": "The escape pod can carry the survivors only after the uplink tells home where to look.",
+      "layoutSeed": 484
+    }
+  ],
+  "status": "development; build, gameplay, physical controller, multi-machine LAN and Steam release acceptance tracked separately",
+  "inspiration": "Original characters, names, story and code; genre references are design inspiration only."
+}
