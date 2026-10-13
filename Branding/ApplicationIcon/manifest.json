@@ -1,0 +1,69 @@
+{
+  "art": {
+    "accent": "#84e0dc",
+    "kind": "original-vector",
+    "motif": "Quarantined orbital station",
+    "provenance": "Repository-native SVG authored for this game; no paid source artwork.",
+    "sourceSha256": "345e637a6f3ff7bb64ff0e82e0e5c507333a9fdceb10394df07590167443df0b"
+  },
+  "assets": {
+    "icon-128.png": {
+      "bytes": 19068,
+      "sha256": "c11308d6648c1e900da729b0f137f38d2ecc680507158117ec9e69952d3723d5"
+    },
+    "icon-16.png": {
+      "bytes": 864,
+      "sha256": "4ce116b725e66c03bee8fd005aff1cab7b1785e8624ef66761a1b4b0f93d9653"
+    },
+    "icon-256.png": {
+      "bytes": 51704,
+      "sha256": "84b9b26784ae4d77dd8ca9fec14231716cd1afa804e1492cdf76a599cbf50d08"
+    },
+    "icon-32.png": {
+      "bytes": 2311,
+      "sha256": "fad48c466f182503a134955bd6b3dbdf711deceb0cc1a611074d769f3d8228bd"
+    },
+    "icon-512.png": {
+      "bytes": 137228,
+      "sha256": "3125c03faef45236b8222c869ba9a47ef35c617efbe4203f780a40936a69dddb"
+    },
+    "icon-64.png": {
+      "bytes": 6814,
+      "sha256": "00d704272e79e9e4c4828e0890b5632c6a4b1cc6fde328e4c753df5cc62ac1ca"
+    },
+    "icon.bmp": {
+      "bytes": 196662,
+      "sha256": "bb7d9bbb51d8ce026d13edd9f04cb6c85e545d67b8d12670c3bb92e568790ad0"
+    },
+    "icon.icns": {
+      "bytes": 640415,
+      "sha256": "2d02388be34a7db7d2fdc9c0b0609c810e661ccd98d792c62a72f6e24d288177"
+    },
+    "icon.ico": {
+      "bytes": 87432,
+      "sha256": "39b2b10a268bd83270d242fd5d4a3fbea306871199445fd4fb8dd531b7cb8443"
+    },
+    "icon.png": {
+      "bytes": 267994,
+      "sha256": "45136ace304d089e8446287d4e1723badaf2f034734921f1b182afb378dff26f"
+    },
+    "source.png": {
+      "bytes": 250361,
+      "sha256": "345e637a6f3ff7bb64ff0e82e0e5c507333a9fdceb10394df07590167443df0b"
+    },
+    "source.svg": {
+      "bytes": 1516,
+      "sha256": "d25a205d541c87e65293a0656fc6ea07d3768d03a42672bf6d0a120f816d3e8a"
+    }
+  },
+  "gameId": "dead-orbit",
+  "installs": [
+    {
+      "asset": "source.png",
+      "path": "Assets/Editor/Branding/GameAppIcon.png"
+    }
+  ],
+  "pipeline": "securelyprogramming/game-workbench/scripts/game-icons.py",
+  "schemaVersion": 1,
+  "scope": "Application icons only; store capsules and platform release certification are separate."
+}
